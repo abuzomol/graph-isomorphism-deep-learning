@@ -377,6 +377,8 @@ INPUT ./pic/110-edges-conv.png
 INPUT pic/120-edges-conv.png
 INPUT ./pic/120-edges-conv.png
 INPUT ./pic/120-edges-conv.png
+INPUT 2018-muzamil-graph-iso.bbl
+INPUT 2018-muzamil-graph-iso.bbl
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT 2018-muzamil-graph-iso.aux
 INPUT ./2018-muzamil-graph-iso.out

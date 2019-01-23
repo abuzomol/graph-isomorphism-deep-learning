@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex 2018-muzamil-graph-iso"] 1548282667 "2018-muzamil-graph-iso.aux" "2018-muzamil-graph-iso.bbl" "2018-muzamil-graph-iso" 1548282669
-  "2018-muzamil-graph-iso.aux" 1548282669 1803 705c47eade9bcc810588548063c5cddc ""
+["bibtex 2018-muzamil-graph-iso"] 1548282941 "2018-muzamil-graph-iso.aux" "2018-muzamil-graph-iso.bbl" "2018-muzamil-graph-iso" 1548282946
+  "2018-muzamil-graph-iso.aux" 1548282944 1798 78d9065cebee5393911ef59ff04239e2 ""
   "2018-muzamil-graph-iso.bcf" 0 -1 0 ""
-  "lipics-v2018-sample-article.bib" 0 -1 0 ""
+  "2018-muzamil-graph-iso.bib" 1544243982 4483 d83f031755bea6cc3a7112aae721a9be ""
   "plainurl.bst" 0 -1 0 ""
   (generated)
   "2018-muzamil-graph-iso.bbl"
   "2018-muzamil-graph-iso.blg"
-["pdflatex"] 1548282667 "2018-muzamil-graph-iso.tex" "2018-muzamil-graph-iso.pdf" "2018-muzamil-graph-iso" 1548282669
+["pdflatex"] 1548282942 "2018-muzamil-graph-iso.tex" "2018-muzamil-graph-iso.pdf" "2018-muzamil-graph-iso" 1548282946
   "/etc/texmf/web2c/texmf.cnf" 1547681415 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1480098696 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -222,10 +222,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1547681464 127853 b41f58aff49fe1af38af8d065f49d51c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1547681468 724918 9bb8a65ece8c249a0ab9ea9ea75ae0ad ""
-  "2018-muzamil-graph-iso.aux" 1548282669 1803 705c47eade9bcc810588548063c5cddc ""
-  "2018-muzamil-graph-iso.bbl" 0 -1 0 "bibtex 2018-muzamil-graph-iso"
-  "2018-muzamil-graph-iso.out" 1548282669 414 28d70ec5cd89324260477e59637e6873 ""
-  "2018-muzamil-graph-iso.tex" 1548282655 11784 e3215951210e504d6c6f9082264fbc57 ""
+  "2018-muzamil-graph-iso.aux" 1548282944 1798 78d9065cebee5393911ef59ff04239e2 ""
+  "2018-muzamil-graph-iso.bbl" 1548282941 0 d41d8cd98f00b204e9800998ecf8427e "bibtex 2018-muzamil-graph-iso"
+  "2018-muzamil-graph-iso.out" 1548282944 414 28d70ec5cd89324260477e59637e6873 ""
+  "2018-muzamil-graph-iso.tex" 1548282923 11779 7e5ce581c00bcb2f0710cbe68c179931 ""
   "lipics-v2018.cls" 1548281578 27454 53a81dd3b1387f6b2a6ff026228bce44 ""
   "pic/10-edges-conv.png" 1544282435 38149 c9fe946f234c58930c7261f3fa808668 ""
   "pic/100-edges-conv.png" 1544282284 19315 ef15ef99a80a581e6c9ca700ff7dea3d ""
@@ -241,8 +241,8 @@
   "pic/80-edges-conv.png" 1544282319 16178 bbac08e7848ea395aeb3f7e681e8c2ad ""
   "pic/90-edges-conv.png" 1544282305 20278 3ffb5a857d0ec53b70501b8249675094 ""
   (generated)
-  "2018-muzamil-graph-iso.log"
   "2018-muzamil-graph-iso.aux"
-  "2018-muzamil-graph-iso.pdf"
-  "2018-muzamil-graph-iso.out"
   "2018-muzamil-graph-iso.vtc"
+  "2018-muzamil-graph-iso.out"
+  "2018-muzamil-graph-iso.pdf"
+  "2018-muzamil-graph-iso.log"
